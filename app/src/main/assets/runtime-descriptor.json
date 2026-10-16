@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "runtimeId": "fec1731f6ba5952e80fd96c01eb354142dfc1b541d7170a20091f826d8655794",
+  "runtimeId": "23146bf29fc53119ee50d933a9b95fc7eefec7ff7c4c7b1d757af342b6f5f8bf",
   "baseVersion": "10",
   "dshVersion": "0.2.0-rc.2",
   "launcherContract": "DSHA_ARM64_V2",
@@ -23,7 +23,7 @@
     "app/src/main/jniLibs/arm64-v8a/libbxroot-runtime.so": "53db5fec3cf010166a1da125bb12f688741ca2af33a12b8f2a1e09f5630d61de",
     "app/src/main/jniLibs/arm64-v8a/libbxroot-ulx.so": "504fb08072c89214025408fbefa6ca87922027914724c9d6cd477f6dc1d0fd79",
     "app/src/main/jniLibs/arm64-v8a/libbxroot.so": "bd337de26da5f4e5e4bc4d7994151a93a8d8326d7c5727d7942ccef2953d735a",
-    "app/src/main/jniLibs/arm64-v8a/libdsha-session.so": "6a143192a8637818f56f2b1c8ae29a71e36b70981a50766e51246834b5bd4b19",
+    "app/src/main/jniLibs/arm64-v8a/libdsha-session.so": "5a2a6e61f8849a4c4cbd5ecbe5a9036c4039f9abde0948cd94ef37e136d7ebee",
     "app/src/main/jniLibs/arm64-v8a/libproot.so": "cbde86eb01b58413f9e4673e182caca5440e8fc4af8482a0e23d0faa0846f721",
     "app/src/main/jniLibs/arm64-v8a/libprootloader.so": "a2cbccfc776e23225b75e6700dd1990fcd505d2e973f5bfa19c76642d4e41c7d",
     "app/src/main/jniLibs/arm64-v8a/libprootloader32.so": "4c649eb2dce258c9111231940fdbf0474bcf1cd6dd447ad9bdf2898b35a85554",
